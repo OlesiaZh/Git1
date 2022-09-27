@@ -4,3 +4,6 @@ def add(x,y):
 
 def prod(x,y):
     return x*y
+
+def ramain(x,y):
+    return x%y
